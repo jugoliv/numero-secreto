@@ -77,7 +77,7 @@ cd numero-secreto
 
 ## 🖼️ Demonstração
 
-![Demonstração do jogo](imagens/jogo.png)
+![Demonstração do jogo](img/jogo.png)
 
 ---
 
