@@ -13,7 +13,7 @@
 
 ## 📖 Sobre o Projeto
 
-O **Número Secreto** é um projeto criado como parte do curso de **Git e GitHub** da [Alura](https://www.alura.com.br).  
+O **Número Secreto** é um projeto criado como parte do curso de **Git e GitHub** da [Alura](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos).  
 A proposta é simples e eficiente: fixar o aprendizado de versionamento com um pequeno jogo de adivinhação de números em **JavaScript**, utilizando **HTML** e **CSS** para interface.
 
 Este projeto é ideal para quem está começando na programação web e quer reforçar boas práticas de controle de versão.
@@ -68,9 +68,7 @@ cd numero-secreto
 
 ## 🚧 Possíveis Melhorias
 
-- 🎨 Melhorar o design e responsividade.
 - 🔄 Implementar a opção de reiniciar o jogo.
-- 🔊 Adicionar efeitos sonoros ou visuais.
 - 📊 Contabilizar tentativas do usuário.
 
 ---
@@ -83,8 +81,8 @@ cd numero-secreto
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por **[Juba (jugoliv)](https://github.com/jugoliv)**  
-Projeto baseado no curso da **[Alura](https://www.alura.com.br)**.
+Desenvolvido por **[Juliano (jugoliv)](https://github.com/jugoliv)**  
+Projeto baseado no curso da **[Alura](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos)**.
 
 ---
 
